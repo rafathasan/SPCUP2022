@@ -1,5 +1,7 @@
 # SPCUP2022
 
+Paper Link: [Synthetic Speech Classification: IEEE Signal Processing Cup 2022 challenge](https://drive.google.com/file/d/1xdm7XVaqDRFIXb3_WWJoXm1IJVy7YNtG/view?usp=sharing)
+
 ## Data Set 
 
 Download the zip file of the data set from [here](https://www.dropbox.com/s/36yqmymkva2bwdi/spcup_2022_training_part1.zip?dl=1).
